@@ -15,8 +15,8 @@ public class QueryProcessor {
            return "MyTeam";
         } else if (query.contains("what is your name"){
             return "cecilie";
-        } else if (query.contains("what is 2015 plus 201"){
-            return "2116";
+        } else if (query.contains("what is 15 plus 1"){
+            return "16";
         } else{ // TODO extend the programm here
             return "";
         }
